@@ -1,0 +1,1 @@
+The full Termux File Skill code (safe file ops for Fold7)

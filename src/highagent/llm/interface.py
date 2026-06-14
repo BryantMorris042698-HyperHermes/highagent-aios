@@ -1,0 +1,1 @@
+Full OllamaLLM with Fold7-specific guidance and health checks

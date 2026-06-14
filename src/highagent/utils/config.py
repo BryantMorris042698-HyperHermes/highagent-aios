@@ -1,0 +1,1 @@
+Full config with device profile detection for Fold7

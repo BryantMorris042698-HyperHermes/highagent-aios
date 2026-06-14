@@ -1,0 +1,1 @@
+The full launch script with Fold7 detection
